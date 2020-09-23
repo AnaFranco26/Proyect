@@ -1,0 +1,15 @@
+body {
+    
+font-family: sans-serif;
+background-image: url('../img/upc.jpg');
+}
+
+.container{
+    width: 50%;
+    max-width: 1070px;
+    margin: auto;
+}
+
+form{
+    width: 80%;
+}
